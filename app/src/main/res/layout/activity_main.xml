@@ -19,7 +19,7 @@
         android:id="@+id/b2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="Relative Activity"
         tools:layout_editor_absoluteX="126dp"
         tools:layout_editor_absoluteY="22dp" />
 
@@ -27,7 +27,7 @@
         android:id="@+id/b3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="Constraint Activity"
         tools:layout_editor_absoluteX="232dp"
         tools:layout_editor_absoluteY="27dp" />
 

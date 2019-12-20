@@ -15,11 +15,11 @@ class MainActivity : AppCompatActivity() {
             startActivity(i)
         }
         b2.setOnClickListener {
-            val i = Intent(this, LinearActivity::class.java)
+            val i = Intent(this, RelativeActivity::class.java)
             startActivity(i)
         }
         b3.setOnClickListener {
-            val i = Intent(this, LinearActivity::class.java)
+            val i = Intent(this, ConstraintActivity::class.java)
             startActivity(i)
         }
     }
