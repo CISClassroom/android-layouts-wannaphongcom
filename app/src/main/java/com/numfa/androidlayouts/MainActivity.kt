@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(i)
         }
         b3.setOnClickListener {
-            val i = Intent(this, ConstraintActivity::class.java)
+            val i = Intent(this,Profile::class.java)
             startActivity(i)
         }
     }
