@@ -47,6 +47,7 @@
 
 ```xml
 android:layout_above="@id/control ที่อ้างอิงที่อยู่ข้างบน"
+android:layout_below="@id/control ที่อ้างอิงที่อยู่ข้างล่าง"
 ```
 
 ## Linear Layout
