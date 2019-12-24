@@ -21,7 +21,7 @@
         android:inputType="textPersonName"
         android:text="Name"
         android:ems="10"
-        android:layout_above="@id/editText"
+        android:layout_below="@id/editText"
         android:id="@+id/editText4"/>
     <EditText
         android:layout_width="wrap_content"
@@ -29,6 +29,6 @@
         android:inputType="textPersonName"
         android:text="Name"
         android:ems="10"
-        android:layout_above="@id/editText4"
-        android:id="@+id/editText5" android:layout_marginBottom="-169dp"/>
+        android:layout_below="@id/editText4"
+        android:id="@+id/editText5"/>
 </RelativeLayout>
